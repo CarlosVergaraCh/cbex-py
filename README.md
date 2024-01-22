@@ -1,6 +1,6 @@
 # Pre-requisites
 
-- Couchbase Server 7.3.x
+- Couchbase Server 7.2.x
 - Python 3.10.x
 
 > Setup your environment as described on Python SDK docs [here](https://docs.couchbase.com/python-sdk/current/start-using-sdk.html)
